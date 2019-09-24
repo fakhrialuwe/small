@@ -1,0 +1,14 @@
+{
+  "name": "@fakhrialuwe/small",
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "fakhrialuwe/small",
+  "main": "index.js",
+  "keywords": [
+    "small",
+    "npm",
+    "package",
+    "fakhri"
+  ]
+}
